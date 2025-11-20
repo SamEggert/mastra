@@ -1,5 +1,14 @@
 # @mastra/voice-google-gemini-live
 
+## 0.11.0-beta.2
+
+### Patch Changes
+
+- fix(voice): Fix Vertex AI WebSocket connection failures in GeminiLiveVoice ([#10243](https://github.com/mastra-ai/mastra/pull/10243))
+
+- Updated dependencies [[`a0a5b4b`](https://github.com/mastra-ai/mastra/commit/a0a5b4bbebe6c701ebbadf744873aa0d5ca01371)]:
+  - @mastra/core@1.0.0-beta.4
+
 ## 0.11.0-beta.1
 
 ### Minor Changes

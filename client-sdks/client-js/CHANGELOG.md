@@ -1,5 +1,14 @@
 # @mastra/client-js
 
+## 1.0.0-beta.4
+
+### Patch Changes
+
+- Include agentId parameter in listMessages API call ([#10270](https://github.com/mastra-ai/mastra/pull/10270))
+
+- Updated dependencies [[`a0a5b4b`](https://github.com/mastra-ai/mastra/commit/a0a5b4bbebe6c701ebbadf744873aa0d5ca01371)]:
+  - @mastra/core@1.0.0-beta.4
+
 ## 1.0.0-beta.3
 
 ### Patch Changes
